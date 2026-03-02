@@ -8,7 +8,7 @@ package realestate;
  *
  * @author acer
  */
-public class Realestate {
+public class RealestatE {
 
     /**
      * @param args the command line arguments
